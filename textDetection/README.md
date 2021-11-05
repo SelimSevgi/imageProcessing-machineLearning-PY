@@ -1,5 +1,5 @@
 # KULLANILAN KÜTÜPHANELER
-* opencv-python   Version:4.5.4.58
+* opencv-python     Version:4.5.4.58
 * pytesseract     Version:0.3.8
 
 # AÇIKLAMA
