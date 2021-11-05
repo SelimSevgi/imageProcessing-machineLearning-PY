@@ -1,6 +1,6 @@
 # KULLANILAN KÜTÜPHANELER
-* OpenCv
-* PyTesseract
+* opencv-python   Version:4.5.4.58
+* pytesseract     Version:0.3.8
 
 # AÇIKLAMA
 >https://github.com/UB-Mannheim/tesseract/wiki 
