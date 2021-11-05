@@ -1,8 +1,8 @@
-#KULLANILAN KÜTÜPHANELER
+# KULLANILAN KÜTÜPHANELER
 * OpenCv
 * PyTesseract
 
-#AÇIKLAMA
+# AÇIKLAMA
 >https://github.com/UB-Mannheim/tesseract/wiki 
 > sitesinden tesseract modülünü indirip kurulumunu gerçekleştirin.
 
