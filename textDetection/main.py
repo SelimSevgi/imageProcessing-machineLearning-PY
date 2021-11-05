@@ -8,7 +8,7 @@ img = cv2.cvtColor(img,cv2.COLOR_BGR2RGB)
 #print(pytesseract.image_to_string(img))
 ## detecting Characters
 
-
+# selimdmasdasd
 hImg,wImg,_ = img.shape
 boxes = pytesseract.image_to_boxes(img)
 for b in boxes.splitlines():
