@@ -1,4 +1,4 @@
-># KULLANILAN KÜTÜPHANELER
+># KURULAN PAKETLER
 >>* opencv-python@4.5.4.58
 >>* pytesseract@0.3.8
 
